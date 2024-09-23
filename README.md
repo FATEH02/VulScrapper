@@ -49,7 +49,12 @@ This tool uses Selenium to scrape websites and BeautifulSoup for parsing the HTM
 ![App Screenshot](https://github.com/FATEH02/VulScrapper/blob/main/images/specificdetail.png)
 
 ## Email Send
+a email will be send to user about severity and a attachment visulaized data 
 ![App Screenshot](https://github.com/FATEH02/VulScrapper/blob/main/images/email%20send.png)
+
+## Email Received
+![App Screenshot](https://github.com/FATEH02/VulScrapper/blob/main/images/WhatsApp%20Image%202024-09-23%20at%202.50.47%20PM.jpeg)
+![App Screenshot](https://github.com/FATEH02/VulScrapper/blob/main/images/WhatsApp%20Image%202024-09-23%20at%202.51.51%20PM.jpeg)
 
 ## Genrative Explaination
 ![App Screenshot](https://github.com/FATEH02/VulScrapper/blob/main/images/genratedbyai.png)
@@ -58,65 +63,42 @@ This tool uses Selenium to scrape websites and BeautifulSoup for parsing the HTM
 ![App Screenshot](https://github.com/FATEH02/VulScrapper/blob/main/images/visualization.png)
 
 
+## Algorithm
+this a visulaized Algorithm for this problem 
+![App Screenshot](https://github.com/FATEH02/VulScrapper/blob/main/images/algori.png)
+
 
 ## Features
 
-- generative ai interaction
-- smooth conversation
-- firebase intigration
-- flow and coroutines
-
-
-## Screenshots
-
-![App Screenshot](https://github.com/FATEH02/AI-messaging-app/blob/master/git.png)
-![App Screenshot](https://github.com/FATEH02/AI-messaging-app/blob/master/git2.png)
-
+- #### Scrapes vulnerability data from the NVIDIA security page.
+- #### Stores data in a CSV format for easy access and manipulation.
+- #### Provides interactive filters for viewing vulnerabilities by severity and OEM.
+- #### Generates visualizations of vulnerability data, including pie charts and line graphs.
+- #### Sends email reports with generated PDF attachments.
+- #### Uses Google’s Generative AI to provide explanations for specific vulnerabilities.
 
 ## API Reference
-
-#### Get all items
-
-```http
-  GET /api/items
-```
+use Gemini Api in this code
 
 | AI | Model     | Description                |
 | :-------- | :------- | :------------------------- |
 | `Gemini` | `Gemini-1,5-flash` | **Required**. Your API key |
 
-#### Get item
-
-```http
-  GET /api/items/${id}
-```
-
-| BAAS | Type     | Description                       |
-| :-------- | :------- | :-------------------------------- |
-| `firebase`      | `cloud` | **Required**. use firebase|
-
-
-## Environment Variables
-
-To run this project, you will need to add the following environment variables to your .env file
-
-`API_KEY`
-`implementation(libs.hilt.android)`
-`ksp(libs.hilt.android.compiler)`
-`implementation ("io.coil-kt:coil-compose:2.4.0")`
-`implementation ("androidx.hilt:hilt-navigation-compose:1.0.0")`
-`implementation("com.google.ai.client.generativeai:generativeai:0.1.2")`
 
 
 
 
-## FAQ
+### Tech Stack 
 
-#### i want to collabrate with you 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
+![Google Generative AI](https://img.shields.io/badge/Google_Generative_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-sure i am ready just email me 
+ 
 
-#### recommended collabration topic
-
-AI
 
