@@ -53,8 +53,11 @@ a email will be send to user about severity and a attachment visulaized data
 ![App Screenshot](https://github.com/FATEH02/VulScrapper/blob/main/images/email%20send.png)
 
 ## Email Received
-![App Screenshot](https://github.com/FATEH02/VulScrapper/blob/main/images/WhatsApp%20Image%202024-09-23%20at%202.50.47%20PM.jpeg)
-![App Screenshot](https://github.com/FATEH02/VulScrapper/blob/main/images/WhatsApp%20Image%202024-09-23%20at%202.51.51%20PM.jpeg)
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/FATEH02/VulScrapper/blob/main/images/WhatsApp%20Image%202024-09-23%20at%202.50.47%20PM.jpeg" alt="Screenshot 1" width="400"/>
+    <img src="https://github.com/FATEH02/VulScrapper/blob/main/images/WhatsApp%20Image%202024-09-23%20at%202.51.51%20PM.jpeg" alt="Screenshot 2" width="400"/>
+</div>
+
 
 ## Genrative Explaination
 ![App Screenshot](https://github.com/FATEH02/VulScrapper/blob/main/images/genratedbyai.png)
