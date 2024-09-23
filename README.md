@@ -39,7 +39,7 @@ This tool uses Selenium to scrape websites and BeautifulSoup for parsing the HTM
 |ProductName|Version|OEM|SeverityLevel|Vulnerability|MitigationStrategy|PublishedDate|UniqueID|
 |:--|---|---|---|---|---|--|--|
 
-##### screenshot
+### Features Of Website  
 ![App Screenshot](https://github.com/FATEH02/VulScrapper/blob/main/images/csvdatabase.png)
 
 ## Filters
